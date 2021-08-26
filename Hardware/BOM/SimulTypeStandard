@@ -1,0 +1,31 @@
+Keys (W x H: QTY):
+  1x1:    91
+  1x2:    2
+  1.25x1: 3
+  1.5x1:  2
+  1.75x1: 2
+  2x1:    2
+  2.25x1: 2
+  6.25x1: 1
+
+Switches:
+  TBD: 105
+
+Diodes:
+  TBD: 105
+
+Sockets:
+  TBD: 105
+
+LEDs:
+  TBD: 105
+
+LED Drivers:
+  IS31FL3733: 2
+
+Controller:
+  ATSAMD51J18?: 1
+
+USB:
+  TBD: 1
+
