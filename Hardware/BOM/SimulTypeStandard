@@ -9,18 +9,18 @@ Keys (W x H: QTY):
   6.25x1: 1
 
 Switches:
-  TBD: 105
+  Gateron Browns (substitute at will): 105 https://www.aliexpress.com/item/32980039972.html
 
 Diodes:
-  TBD: 105
+  ZRE 1SS355-A: 105 https://lcsc.com/product-detail/Switching-Diode_ZRE-1SS355-A_C779741.html
 
 Sockets:
-  TBD: 105
+  Gateron Hot-Swap Sockets: 105 https://www.aliexpress.com/item/1005003129613578.html
 
 LEDs:
-  TBD: 105
+  SK6812-E: 105 https://www.aliexpress.com/item/1005002420368214.html
 
-LED Drivers:
+LED Drivers?:
   IS31FL3733: 2
 
 Controller:
