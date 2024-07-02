@@ -164,7 +164,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -385,7 +385,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "maxfootprints:breakoffm3hole"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -588,7 +588,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA24"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -742,7 +742,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9E8"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -864,7 +864,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1157,6 +1157,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/schuh/Documents/KiCad/8.0/3dmodels/max3d/SPARKFUN_QWIIC_RIGHT_ANGLE.step"
+			(offset
+				(xyz -0.5 17.25 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 180)
+			)
+		)
 	)
 	(footprint "kibuzzard-65BEF9F0"
 		(layer "F.Cu")
@@ -1186,7 +1197,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9F0"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1351,7 +1362,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1747,7 +1758,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2162,12 +2173,12 @@
 			(zone_connect 2)
 			(uuid "5ce94c12-936b-4efc-bdb5-65bb5a6c37b5")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.85 0.85 0.85)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -2202,7 +2213,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA42"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2354,7 +2365,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "maxfootprints:breakoffm3hole"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2558,7 +2569,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "maxfootprints:breakoffm3hole"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2761,7 +2772,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA6D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2867,7 +2878,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA48"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3016,7 +3027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA60"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3155,7 +3166,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA57"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3301,7 +3312,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3522,7 +3533,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3937,12 +3948,12 @@
 			(zone_connect 2)
 			(uuid "1896fcb3-770b-45ca-a707-96e144cd2d25")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.85 0.85 0.85)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -3977,7 +3988,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9FD"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4138,7 +4149,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA30"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4290,7 +4301,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "maxfootprints:breakoffm3hole"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4493,7 +4504,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9E1"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4621,7 +4632,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5146,7 +5157,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF941"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5294,7 +5305,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA3D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5449,7 +5460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DFN_QFN:DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5864,12 +5875,12 @@
 			(zone_connect 2)
 			(uuid "8240f62d-d178-4234-9ab0-36821ea879a9")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DHVQFN-16-1EP_2.5x3.5mm_P0.5mm_EP1x2mm.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-12-1EP_3x4mm_P0.5mm_EP1.7x3.3mm.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
 			(scale
-				(xyz 1 1 1)
+				(xyz 0.85 0.85 0.85)
 			)
 			(rotate
 				(xyz 0 0 0)
@@ -5905,7 +5916,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6125,7 +6136,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA0F"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6248,7 +6259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA03"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6389,7 +6400,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6784,7 +6795,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA08"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6887,7 +6898,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9C3"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7064,7 +7075,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9CF"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7295,7 +7306,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:TE_4-1734839-5_1x45-1MP_P0.5mm_Horizontal"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8034,7 +8045,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA66"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8157,7 +8168,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA36"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8309,7 +8320,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8676,7 +8687,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9A5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8825,7 +8836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9045,7 +9056,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA17"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9203,7 +9214,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BDD880"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9409,7 +9420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65C25006"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9520,7 +9531,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9DC"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9643,7 +9654,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEF9D6"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9766,7 +9777,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BEFA1D"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -9918,7 +9929,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BDD6E5"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10013,7 +10024,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "maxfootprints:SolderJumper-3_P1.3mm_Bridged123_RoundedPad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10337,7 +10348,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65C29BCC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11154,7 +11165,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BDD614"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -11519,7 +11530,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BDD75E"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12154,7 +12165,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BE09D0"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12628,7 +12639,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -12837,7 +12848,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BE0934"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13076,7 +13087,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BDD62B"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13493,7 +13504,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "kibuzzard-65BDD7EC"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13773,7 +13784,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
